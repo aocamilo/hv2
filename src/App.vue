@@ -1,6 +1,10 @@
 <template lang="pug">
   #app
+<<<<<<< HEAD
     img(src='./images/pp.jpg' class="imagen")
+=======
+    img(src='https://aocamilo.github.io/Hv/dist/imagen.jpg' class="imagen")
+>>>>>>> 0f423b68c208e43fc06b0a48c06f51850485b7de
     br
     br
     h1 Perfil
