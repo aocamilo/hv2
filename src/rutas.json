@@ -1,0 +1,8 @@
+{"cursos":
+	[{"id":"1","name":"Desarrollo Online","plataforma":"Platzi","imagen":"./images/DesarrolloOnline.jpg"},
+	 {"id":"2","name":"Git y GitHub","plataforma":"Platzi","imagen":"./images/Git.jpg"},
+	 {"id":"3","name":"Java","plataforma":"Platzi","imagen":"./images/Java.jpg"},
+	 {"id":"4","name":"JavaScript","plataforma":"Platzi","imagen":"./images/JavaScript.jpg"},
+	 {"id":"5","name":"Programación","plataforma":"Platzi","imagen":"./images/programacion.jpg"},
+	 {"id":"6","name":"Responsive Design","plataforma":"Platzi","imagen":"./images/ResponsiveDesign.jpg"}]
+}
