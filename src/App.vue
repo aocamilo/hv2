@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./dist/imagen.jpg' class="imagen")
+    img(src='../dist/imagen.jpg' class="imagen")
     br
     br
     h1 Perfil
@@ -127,13 +127,13 @@ export default {
   name: 'app',
   data () {
     return {
-      cursos: [{id:"1",name:"Desarrollo Online",plataforma:"Platzi",imagen:"https://aocamilo.github.io/Hv/dist/DesarrolloOnline.jpg"},
-               {id:"2",name:"Git y GitHub",plataforma:"Platzi",imagen:"https://aocamilo.github.io/Hv/dist/Git.jpg"},
-               {id:"3",name:"Java",plataforma:"Platzi",imagen:"https://aocamilo.github.io/Hv/dist/Java.png"},
-               {id:"4",name:"JavaScript",plataforma:"Platzi",imagen:"https://aocamilo.github.io/Hv/dist/JavaScript.jpg"},
-               {id:"5",name:"Programación",plataforma:"Platzi",imagen:"https://aocamilo.github.io/Hv/dist/programacion.jpg"},
-               {id:"6",name:"Responsive Design",plataforma:"Platzi",imagen:"https://aocamilo.github.io/Hv/dist/ResponsiveDesign.jpg"},
-               {id:"7",name:"Curso basico Vue.js", plataforma:"Platzi", imagen:"https://aocamilo.github.io/Hv/dist/Vue.jpg"}],
+      cursos: [{id:"1",name:"Desarrollo Online",plataforma:"Platzi",imagen:"./dist/DesarrolloOnline.jpg"},
+               {id:"2",name:"Git y GitHub",plataforma:"Platzi",imagen:"./dist/Git.jpg"},
+               {id:"3",name:"Java",plataforma:"Platzi",imagen:"./dist/Java.png"},
+               {id:"4",name:"JavaScript",plataforma:"Platzi",imagen:"./dist/JavaScript.jpg"},
+               {id:"5",name:"Programación",plataforma:"Platzi",imagen:"./dist/programacion.jpg"},
+               {id:"6",name:"Responsive Design",plataforma:"Platzi",imagen:"./dist/ResponsiveDesign.jpg"},
+               {id:"7",name:"Curso basico Vue.js", plataforma:"Platzi", imagen:"./dist/Vue.jpg"}],
       loading: true
     }
   }
