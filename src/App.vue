@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='../dist/imagen.jpg' class="imagen")
+    img(src='./images/pp.jpg' class="imagen")
     br
     br
     h1 Perfil
