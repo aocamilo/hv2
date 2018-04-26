@@ -5,7 +5,7 @@
     br
     h1 Perfil
     br
-    h5 Excelentes relaciones interpersonales, habilidad para trabajar en equipo y asumir responsabilidades, honesto, comprometido con el trabajo, con gran habilidad de aprendizaje, manejo avanzado de ingles, ciudadano americano.
+    h5 Excelentes relaciones interpersonales, aptitud para trabajar en equipo y asumir responsabilidades, honesto, comprometido con el trabajo, con gran habilidad de aprendizaje, manejo avanzado de ingles, ciudadano americano.
     br
     br
     h1 Información Personal
