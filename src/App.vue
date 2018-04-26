@@ -133,7 +133,8 @@ export default {
                {id:"4",name:"JavaScript",plataforma:"Platzi",imagen:"./dist/JavaScript.jpg"},
                {id:"5",name:"Programación",plataforma:"Platzi",imagen:"./dist/programacion.jpg"},
                {id:"6",name:"Responsive Design",plataforma:"Platzi",imagen:"./dist/ResponsiveDesign.jpg"},
-               {id:"7",name:"Curso basico Vue.js", plataforma:"Platzi", imagen:"./dist/Vue.jpg"}],
+               {id:"7",name:"Curso basico Vue.js", plataforma:"Platzi", imagen:"./dist/Vue.jpg"},
+               {id:"8",name:"ReactJS", plataforma:"Platzi", imagen:"./dist/React.jpg"}],
       loading: true
     }
   }
